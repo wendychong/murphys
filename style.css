@@ -1,13 +1,24 @@
-#headermenu {
-  background-color: white;
+.ui.borderless.menu {
+  background-color: #ffffff;
   box-shadow: none;
   border: none;
 }
 
-.fitted.item.hearder-item {
-  margin-left: 50px;
+.ui.borderless.middle.menu {
+  box-shadow: none;
+  border: none;
 }
 
+.footer-background {
+  background-color: #004030;
+  height: 200px;
+  color: white;
+  padding-top:20px;
+  padding-bottom: 20px;
+}
 
-
-
+.grad-background {
+  background: url('http://murphyshawaii.com/media/2014/04/murphys-front.jpg') no-repeat center center fixed;
+  height: 500px;
+  color: #ffffff;
+}
